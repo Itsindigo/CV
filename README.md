@@ -15,7 +15,7 @@ ___
 
 Makers Academy throughout has emphasised best practices in Web Development, with particular focus on; software design principles, Agile methodologies including TDD and the value of writing clean code.
 
-I am confident building projects in focussed design sprints, ranging from the scaffolding and configuration, to domain modeling and HTML/CSS styling.
+I am confident building projects in focussed design sprints, ranging from the scaffolding and configuration, to domain modelling and HTML/CSS styling.
 
 - [SuperMarkIt](https://github.com/Itsindigo/markpad), real-time, lightweight markdown text-editor, built as a single-page MEAN web application over a two week design sprint in a five man team.
 - [Impostergram](https://github.com/Itsindigo/instagram-challenge), a Rails application allowing users to host images and share with their friends.
