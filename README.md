@@ -36,6 +36,7 @@ ___
 #### Makers Academy (January - April 2016)
 
 - Independent learner and problem-solver
+- Creative thinker, always eager to contribute to product and design discussions.
 - Agile
 - OOP, TDD, SOLID, MVC, BDD
 - REST, HTTP
