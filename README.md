@@ -6,7 +6,7 @@ and that both encourages and enables innovation.
 
 Dissatisfied with a career in recruitment, I began to concentrate my efforts on becoming a Junior Developer. This culminated in the completion of a software development bootcamp in April 2016.
 
-I have taken the greatest enjoyment building back-end functionality into my applications, so much so that I intend to pursue a back-end or full-stack position in future.
+I have taken the greatest enjoyment building back-end functionality into my applications, particularly enjoying my experiences in high-level programming languages. 
 
 
 ## Skills
@@ -17,7 +17,7 @@ Makers Academy throughout has emphasised best practices in Web Development, with
 
 I am confident building projects in focussed design sprints, ranging from the scaffolding and configuration, to domain modelling and HTML/CSS styling.
 
-- [SuperMarkIt](https://github.com/Itsindigo/supermarkit), real-time, lightweight markdown text-editor, built as a single-page MEAN web application over a two week design sprint in a five man team.
+- [SuperMarkIt](https://github.com/Itsindigo/markpad), real-time, lightweight markdown text-editor, built as a single-page MEAN web application over a two week design sprint in a five man team.
 - [Impostergram](https://github.com/Itsindigo/instagram-challenge), a Rails application allowing users to host images and share with their friends.
 
 
