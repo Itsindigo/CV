@@ -6,7 +6,7 @@
 | --------- | ----------- | ------- | -------- |
 | Phone | +1 (236) 464-3470 | Github | [github.com/itsindigo](https://github.com/itsindigo) |
 | Email | [mattbridgesbusiness@gmail.com](mailto:mattbridgesbusiness@gmail.com) | LinkedIn | [linkedin.com/matthew-bridges](https://www.linkedin.com/in/matthew-bridges/)
-| Location | Vancouver, BC | Timezone | GMT-8 (Flexible +2)  |
+| Location | Vancouver, BC | Timezone | PDT, UTC-8 (Flexible +2)  |
 
 
 ## About
@@ -36,6 +36,11 @@ I am currently seeking a Senior IC role with a focus on solving interesting tech
 #### About
 
 Streamyard is a live streaming platform that enables users to broadcast to multiple social media platforms simultaneously. I joined the team as a Senior Software Engineer, working across a number of teams to deliver new features and improve platform reliability.
+
+#### Key Projects & Achievements
+
+- Automated Audio Transcriptions - Developed a feature that transcribes audio from live streams, enabling users to add subtitles to their broadcasts. We used bleeding edge LLM transformers to achieve high accuracy, experimenting across a variety of accelerated hardware options to achieve a solution that was quick, accurate, and cost effective. Able to transcribe 1 hour of audio in under a minute running on the GCP G2 family machine series (NVIDIA L4 GPU).
+
 
 ### Sabbatical - Feb 2023 - July 2023
 
