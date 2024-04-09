@@ -39,7 +39,7 @@ Streamyard is a live streaming platform that enables users to broadcast to multi
 
 #### Key Projects & Achievements
 
-- Automated Audio Transcriptions - Developed a feature that transcribes audio from live streams, enabling users to add subtitles to their broadcasts. We used bleeding edge LLM transformers to achieve high accuracy, experimenting across a variety of accelerated hardware options to achieve a solution that was quick, accurate, and cost effective. Able to transcribe 1 hour of audio in under a minute running on the GCP G2 family machine series (NVIDIA L4 GPU).
+- Automated Audio Transcriptions - Developed a feature that transcribes audio from live streams, enabling users to add subtitles to their broadcasts. We used bleeding edge LLM transformers to achieve high accuracy, experimenting across a variety of accelerated hardware options to achieve a solution that was quick, accurate, and cost effective. Ultimately we were able to transcribe 1 hour of audio in less than a minute running on the GCP G2 family machine series (NVIDIA L4 GPU).
 
 
 ### Sabbatical - Feb 2023 - July 2023
