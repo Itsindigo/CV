@@ -8,7 +8,6 @@
 | Email | [mattbridgesbusiness@gmail.com](mailto:mattbridgesbusiness@gmail.com) | LinkedIn | [linkedin.com/matthew-bridges](https://www.linkedin.com/in/matthew-bridges/)
 | Location | Vancouver, BC | Timezone | PDT, UTC-8 (Flexible +2)  |
 
-
 ## About
 
 Senior Software Engineer++ with more than eight years experience across Startups, Scale-Ups and Digital Agencies.
@@ -19,7 +18,7 @@ I am currently seeking a Senior IC role with a focus on solving interesting tech
 
 ## Skills & Technologies
 
-- **Languages**: JavaScript (TS) & Python professionally. Hobbyist interest in Rust & Go.
+- **Languages**: JavaScript (TS), Python and Go. Hobbyist interest in Rust.
 - **Web Technologies & Protocols**: React, GraphQL, RTMP, GRPC
 - **Cloud Platforms**: AWS, GCP, Temporal
 - **Testing and Automation**: Various unit and integration testing tools, including Jest, Playwright, Unittest, PyTest, Shift Left security testing
