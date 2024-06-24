@@ -2,27 +2,30 @@
 
 ## Contact Details
 
-| | | | |
-| --------- | ----------- | ------- | -------- |
-| Phone | +1 (236) 464-3470 | Github | [github.com/itsindigo](https://github.com/itsindigo) |
-| Email | [mattbridgesbusiness@gmail.com](mailto:mattbridgesbusiness@gmail.com) | LinkedIn | [linkedin.com/matthew-bridges](https://www.linkedin.com/in/matthew-bridges/)
-| Location | Vancouver, BC | Timezone | PDT, UTC-8 (Flexible +2)  |
+|          |                                                                       |          |                                                                              |
+| -------- | --------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------- |
+| Phone    | [(+1) (236) 464-3470](tel:0012364643470)                              | Github   | [github.com/itsindigo](https://github.com/itsindigo)                         |
+| Email    | [mattbridgesbusiness@gmail.com](mailto:mattbridgesbusiness@gmail.com) | LinkedIn | [linkedin.com/matthew-bridges](https://www.linkedin.com/in/matthew-bridges/) |
+| Location | Vancouver, BC                                                         | Timezone | PDT, UTC-8 (Flexible +2)                                                     |
 
 ## About
 
-Senior Software Engineer++ with more than eight years experience across Startups, Scale-Ups and Digital Agencies.
+Senior Software Engineer with more than eight years experience across scale-ups and larger companies.
 
 My approach is pragmatic, I always want to bring a positive attitude to the task at hand, and I love to speak up and drive ideas forward.
 
-I am currently seeking a Senior IC role with a focus on solving interesting technical challenges, and a view to deliver projects with robust, scalable implementations. My programming experience is listed below, but I consider myself a generalist and I'm always open to learning new languages / technologies.
+I am currently seeking a Senior IC role with a focus on solving interesting technical challenges, and a view to deliver projects with robust, scalable implementations. I value autonomy, trust, and ownership in my work, and am seeking a company that reflects these values.
+
+My programming experience is listed below, but I consider myself a generalist and I'm always open to learning new languages / technologies.
+
 
 ## Skills & Technologies
 
 - **Languages**: JavaScript (TS), Python and Go. Hobbyist interest in Rust.
 - **Web Technologies & Protocols**: React, GraphQL, RTMP, GRPC
 - **Cloud Platforms**: AWS, GCP, Temporal
-- **Testing and Automation**: Various unit and integration testing tools, including Jest, Playwright, Unittest, PyTest, Shift Left security testing
-- **DevOps and CI/CD**: Terraform, K8S (GKE/AKS), CircleCI, Github Actions, Cloud Native, Skaffold, Tilt, Kustomize, Helm, ArgoCD
+- **Testing and Automation**: Various testing strategies including Unit, Integration, E2E, Load, Synthetic & Contract
+- **DevOps and CI/CD**: Terraform, Kubernetes (GKE/AKS), CircleCI, Github Actions, Cloud Native, Skaffold, Tilt, Kustomize, Helm, ArgoCD
 - **Databases**: Relational, Spanner, BigQuery, Redis
 - **Monitoring and Observability**: Prometheus, Sentry, Datadog, New Relic, OTEL
 - **Architectural Styles**: Microservices, Event Driven, Modular Monoliths, Hexagonal Architecture
@@ -30,11 +33,13 @@ I am currently seeking a Senior IC role with a focus on solving interesting tech
 
 ## Experience
 
-### Streamyard - July 2023 - Present
+### StreamYard - July 2023 - May 2024
 
 #### About
 
-Streamyard is a live streaming platform that enables users to broadcast to multiple social media platforms simultaneously. I joined the team as a Senior Software Engineer, working across a number of teams to deliver new features and improve platform reliability.
+StreamYard is a live streaming platform that enables users to broadcast to multiple social media platforms simultaneously. I joined the team as a Senior Software Engineer, working across a number of teams to deliver new features and improve platform reliability.
+
+StreamYard was acquired by Bending Spoons in May 2024, at which point they released ~90% of staff.
 
 #### Key Projects & Achievements
 
