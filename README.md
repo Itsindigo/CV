@@ -21,19 +21,18 @@ My programming experience is listed below, but I consider myself a generalist an
 
 ## Skills & Technologies
 
-- **Languages**: JavaScript (TS), Python and Go. Hobbyist interest in Rust.
-- **Web Technologies & Protocols**: React, GraphQL, RTMP, GRPC
+- **Languages**: Go, JavaScript (TS), Python. Hobbyist interest in Rust.
+- **Web Technologies & Protocols**: React, GraphQL, RTMP, gRPC
 - **Cloud Platforms**: AWS, GCP, Temporal
 - **Testing and Automation**: Various testing strategies including Unit, Integration, E2E, Load, Synthetic & Contract
 - **DevOps and CI/CD**: Terraform, Kubernetes (GKE/AKS), CircleCI, Github Actions, Cloud Native, Skaffold, Tilt, Kustomize, Helm, ArgoCD
 - **Databases**: Relational, Spanner, BigQuery, Redis
 - **Monitoring and Observability**: Prometheus, Sentry, Datadog, New Relic, OTEL
 - **Architectural Styles**: Microservices, Event Driven, Modular Monoliths, Hexagonal Architecture
-- **Miscellaneous**: Launch Darkly
 
 ## Experience
 
-### StreamYard - July 2023 - May 2024
+### StreamYard / Hopin - July 2023 - May 2024
 
 #### About
 
