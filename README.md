@@ -33,9 +33,6 @@ My programming experience is listed below, but I consider myself a generalist an
 
 ## Experience
 
-<<<<<<< HEAD
-### StreamYard / Hopin - July 2023 - May 2024
-=======
 ### Postscript - December 2024 - Present
 
 #### About
@@ -49,7 +46,6 @@ Postscript is an SMS based marketing platform for E-Commerce stores. At Postscri
 - Received the "FEACH" founders award, an award for employees who best represent the companies values. Awarded to three people in the company twice a year.
 
 ### StreamYard - July 2023 - May 2024
->>>>>>> d1351af (update with postscript details)
 
 #### About
 
