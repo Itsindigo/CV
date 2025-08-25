@@ -37,7 +37,7 @@ My programming experience is listed below, but I consider myself a generalist an
 
 #### About
 
-Postscript is an SMS based marketing platform for E-Commerce stores. At Postscript I work in the Messaging AI team, a strategic team developing new products using emerging AI technologies. I have primarily worked on the Shopper product, and agentic shopping assistant that drives incremental revenue for merchants.
+Postscript is an SMS based marketing platform for E-Commerce stores. At Postscript I work in the Messaging AI team, a strategic team developing new products using emerging AI technologies. I have primarily worked on the Shopper product, an agentic shopping assistant that drives incremental revenue for merchants.
 
 #### Key Projects & Achievements
 
