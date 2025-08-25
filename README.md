@@ -10,7 +10,7 @@
 
 ## About
 
-Senior Software Engineer with more than eight years experience across scale-ups and larger companies.
+Senior Software Engineer with more nine years experience across scale-ups and larger companies.
 
 My approach is pragmatic, I always want to bring a positive attitude to the task at hand, and I love to speak up and drive ideas forward.
 
@@ -22,7 +22,8 @@ My programming experience is listed below, but I consider myself a generalist an
 ## Skills & Technologies
 
 - **Languages**: Go, JavaScript (TS), Python. Hobbyist interest in Rust.
-- **Web Technologies & Protocols**: React, GraphQL, RTMP, gRPC
+- **Web Technologies & Protocols**: React, GraphQL, RTMP, GRPC
+- **AI, LLMs, Agents**: LLMs, Supervisors, Agents, Tool Calling, Classifiers, Routing.
 - **Cloud Platforms**: AWS, GCP, Temporal
 - **Testing and Automation**: Various testing strategies including Unit, Integration, E2E, Load, Synthetic & Contract
 - **DevOps and CI/CD**: Terraform, Kubernetes (GKE/AKS), CircleCI, Github Actions, Cloud Native, Skaffold, Tilt, Kustomize, Helm, ArgoCD
@@ -32,7 +33,23 @@ My programming experience is listed below, but I consider myself a generalist an
 
 ## Experience
 
+<<<<<<< HEAD
 ### StreamYard / Hopin - July 2023 - May 2024
+=======
+### Postscript - December 2024 - Present
+
+#### About
+
+Postscript is an SMS based marketing platform for E-Commerce stores. At Postscript I work in the Messaging AI team, a strategic team developing new products using emerging AI technologies. I have primarily worked on the Shopper product, and agentic shopping assistant that drives incremental revenue for merchants.
+
+#### Key Projects & Achievements
+
+- Launched V1 of the Shopper product, iterated aggressively to find product market fit. Shipped features as we grew from 0 to 150 active customers.
+- Shipped agentic features including LLM supervision systems, efficient data fetching frameworks, distributed workloads, and LLM observability systems.
+- Received the "FEACH" founders award, an award for employees who best represent the companies values. Awarded to three people in the company twice a year.
+
+### StreamYard - July 2023 - May 2024
+>>>>>>> d1351af (update with postscript details)
 
 #### About
 
